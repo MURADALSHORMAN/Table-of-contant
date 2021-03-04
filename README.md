@@ -11,4 +11,4 @@
    ---------------------------------------------------------
   [Read: 04 - Programming with JavaScript](https://github.com/MURADALSHORMAN/Readme/blob/main/Read_04.md)
   ------------------------------------------------------------------------
-  
+  [Read: 04b - Computer Architecture and Logic](https://github.com/MURADALSHORMAN/Readme/blob/main/Read04b.md)
