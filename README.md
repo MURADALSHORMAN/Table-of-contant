@@ -2,6 +2,8 @@
 # Read Table
 --------------
  [Lab: 02a - Learning Markdown](https://github.com/MURADALSHORMAN/git-task/blob/main/README.md)
+ ---------------------------------------------------------------
+ [Lab: 02b - Revisions and the Cloud](https://github.com/MURADALSHORMAN/Readme/blob/main/Lab:%2002b%20-%20Revisions%20and%20the%20Cloud.md)
   ------------------------------------------------------------------------------------------
    [Read: 02a - Learning Markdown](https://github.com/MURADALSHORMAN/-Learning-Markdown/blob/main/README.md)
    -----------------------------------------------------------------------------
