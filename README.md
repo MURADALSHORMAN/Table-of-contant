@@ -15,3 +15,5 @@
   ------------------------------------------------------------------------
   [Read: 04b - Computer Architecture and Logic](https://github.com/MURADALSHORMAN/Readme/blob/main/Read04b.md)
 ---------------------------------------------------------------------------------
+[Read: 05 - Operators and Loops](https://github.com/MURADALSHORMAN/Readme/blob/main/read05.md)
+------------------------------------------------
