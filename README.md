@@ -19,3 +19,5 @@
 -
 [Read: 06b - Design web pages with CSS](https://github.com/MURADALSHORMAN/Readme/blob/main/css.md)
 -
+[Lab: 06a - Programming with JavaScript](https://github.com/MURADALSHORMAN/lab05/blob/main/index.html)
+-
