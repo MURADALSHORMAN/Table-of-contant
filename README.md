@@ -21,4 +21,5 @@
 -
 [Lab: 06a - Programming with JavaScript](https://github.com/MURADALSHORMAN/lab05/blob/main/index.html)
 -
-[Lab: 06b - Design web pages with CSS](https://github.com/MURADALSHORMAN/lab06css/blob/main/index.html)
+[Lab: 06b - Design web pages with CSS](https://muradalshorman.github.io/lab06css/)
+-
